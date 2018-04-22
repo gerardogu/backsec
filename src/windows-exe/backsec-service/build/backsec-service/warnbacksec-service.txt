@@ -1,0 +1,17 @@
+missing module named resource - imported by posix, C:\Users\admin\Desktop\ggusoft-backsec\windows-exe\backsec-service\backsec-service.py
+missing module named posix - imported by os, C:\Users\admin\Desktop\ggusoft-backsec\windows-exe\backsec-service\backsec-service.py
+missing module named os2 - imported by os, C:\Users\admin\Desktop\ggusoft-backsec\windows-exe\backsec-service\backsec-service.py
+missing module named _emx_link - imported by os, C:\Users\admin\Desktop\ggusoft-backsec\windows-exe\backsec-service\backsec-service.py
+missing module named ce - imported by os, C:\Users\admin\Desktop\ggusoft-backsec\windows-exe\backsec-service\backsec-service.py
+missing module named riscos - imported by os, C:\Users\admin\Desktop\ggusoft-backsec\windows-exe\backsec-service\backsec-service.py
+missing module named riscospath - imported by os, C:\Users\admin\Desktop\ggusoft-backsec\windows-exe\backsec-service\backsec-service.py
+missing module named riscosenviron - imported by os, C:\Users\admin\Desktop\ggusoft-backsec\windows-exe\backsec-service\backsec-service.py
+missing module named 'org.python' - imported by pickle, C:\Users\admin\Desktop\ggusoft-backsec\windows-exe\backsec-service\backsec-service.py
+missing module named grp - imported by shutil, tarfile, C:\Users\admin\Desktop\ggusoft-backsec\windows-exe\backsec-service\backsec-service.py
+missing module named _sysconfigdata - imported by distutils.sysconfig, C:\Users\admin\Desktop\ggusoft-backsec\windows-exe\backsec-service\backsec-service.py
+missing module named Crypto.PublicKey._fastmath - imported by Crypto.PublicKey, Crypto.Util.number, Crypto.PublicKey.RSA, C:\Users\admin\Desktop\ggusoft-backsec\windows-exe\backsec-service\backsec-service.py
+missing module named org - imported by copy, C:\Users\admin\Desktop\ggusoft-backsec\windows-exe\backsec-service\backsec-service.py
+missing module named readline - imported by cmd, pdb, C:\Users\admin\Desktop\ggusoft-backsec\windows-exe\backsec-service\backsec-service.py
+missing module named fcntl - imported by tempfile, subprocess, C:\Users\admin\Desktop\ggusoft-backsec\windows-exe\backsec-service\backsec-service.py
+missing module named 'win32com.gen_py' - imported by win32com, C:\Users\admin\Desktop\ggusoft-backsec\windows-exe\backsec-service\backsec-service.py, c:\python27\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_win32comgenpy.py
+missing module named pwd - imported by posixpath, shutil, tarfile, C:\Users\admin\Desktop\ggusoft-backsec\windows-exe\backsec-service\backsec-service.py
